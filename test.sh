@@ -1,1 +1,3 @@
-"Hello from jenkins build "
+#!/bin/bash
+
+echo "Hello from jenkins build "
